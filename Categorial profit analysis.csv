@@ -1,0 +1,121 @@
+OrderID,OrderDate,CustomerID,CustomerSegment,Region,ProductCategory,Quantity,UnitPrice,Discount,Sales
+2000,2023-06-13,C024,Home Office,East,Office Supplies,5,14538,0.15,61786.5
+2001,2023-01-29,C012,Consumer,South,Office Supplies,4,3478,0.0,13912.0
+2002,2023-01-07,C028,Consumer,South,Office Supplies,2,14333,0.0,28666.0
+2003,2023-03-12,C013,Corporate,West,Office Supplies,3,18628,0.0,55884.0
+2004,2023-03-04,C022,Home Office,North,Office Supplies,5,9243,0.1,41593.5
+2005,2023-02-27,C004,Corporate,West,Technology,4,606,0.1,2181.6
+2006,2023-02-05,C017,Consumer,North,Office Supplies,3,17135,0.05,48834.75
+2007,2023-01-27,C005,Corporate,South,Office Supplies,5,518,0.1,2331.0
+2008,2023-06-23,C016,Consumer,North,Furniture,3,8346,0.0,25038.0
+2009,2023-05-20,C008,Home Office,North,Technology,4,2767,0.05,10514.6
+2010,2023-01-23,C005,Home Office,West,Office Supplies,2,9185,0.15,15614.5
+2011,2023-06-01,C007,Home Office,South,Office Supplies,3,13574,0.1,36649.8
+2012,2023-04-19,C015,Home Office,West,Technology,2,7862,0.0,15724.0
+2013,2023-01-09,C011,Consumer,South,Office Supplies,2,735,0.0,1470.0
+2014,2023-01-08,C023,Home Office,North,Technology,1,1529,0.1,1376.1
+2015,2023-01-24,C003,Home Office,South,Furniture,4,7520,0.05,28576.0
+2016,2023-02-25,C024,Home Office,West,Technology,4,13838,0.05,52584.4
+2017,2023-03-01,C004,Consumer,West,Furniture,4,13970,0.15,47498.0
+2018,2023-05-10,C028,Home Office,North,Office Supplies,1,2486,0.15,2113.1
+2019,2023-06-04,C024,Corporate,North,Technology,2,6732,0.15,11444.4
+2020,2023-01-07,C005,Corporate,South,Furniture,4,8685,0.0,34740.0
+2021,2023-05-24,C015,Home Office,North,Technology,5,983,0.0,4915.0
+2022,2023-02-20,C030,Consumer,South,Furniture,4,16273,0.05,61837.4
+2023,2023-06-16,C028,Corporate,North,Technology,4,570,0.15,1938.0
+2024,2023-06-29,C009,Corporate,East,Furniture,5,16447,0.05,78123.25
+2025,2023-05-20,C007,Corporate,South,Technology,5,18266,0.0,91330.0
+2026,2023-04-18,C024,Corporate,North,Technology,5,16123,0.05,76584.25
+2027,2023-02-26,C002,Home Office,North,Technology,1,19998,0.0,19998.0
+2028,2023-04-25,C022,Consumer,West,Technology,5,8567,0.0,42835.0
+2029,2023-05-31,C020,Consumer,West,Office Supplies,5,19021,0.1,85594.5
+2030,2023-03-13,C030,Corporate,South,Office Supplies,3,8321,0.1,22466.7
+2031,2023-01-02,C013,Consumer,East,Furniture,3,2877,0.0,8631.0
+2032,2023-02-10,C015,Home Office,North,Technology,5,7484,0.1,33678.0
+2033,2023-06-28,C005,Corporate,North,Technology,3,9838,0.05,28038.3
+2034,2023-04-19,C015,Home Office,East,Office Supplies,5,756,0.1,3402.0
+2035,2023-03-29,C030,Home Office,North,Technology,3,4282,0.0,12846.0
+2036,2023-03-13,C024,Home Office,South,Furniture,3,7401,0.1,19982.7
+2037,2023-02-09,C007,Home Office,East,Office Supplies,4,8728,0.0,34912.0
+2038,2023-02-25,C003,Home Office,West,Furniture,1,616,0.1,554.4
+2039,2023-03-28,C025,Consumer,East,Technology,4,18577,0.15,63161.8
+2040,2023-01-27,C018,Consumer,North,Technology,2,18377,0.0,36754.0
+2041,2023-01-24,C027,Corporate,South,Furniture,2,1870,0.1,3366.0
+2042,2023-04-08,C012,Consumer,East,Technology,2,3868,0.1,6962.4
+2043,2023-01-25,C025,Home Office,West,Office Supplies,2,8257,0.05,15688.3
+2044,2023-04-02,C026,Consumer,West,Technology,2,11385,0.15,19354.5
+2045,2023-03-30,C026,Home Office,South,Furniture,2,4042,0.15,6871.4
+2046,2023-06-04,C028,Consumer,West,Technology,2,15583,0.1,28049.4
+2047,2023-03-09,C010,Consumer,South,Technology,2,13556,0.1,24400.8
+2048,2023-01-12,C009,Consumer,East,Furniture,5,13596,0.1,61182.0
+2049,2023-04-28,C001,Consumer,East,Technology,5,9198,0.0,45990.0
+2050,2023-05-18,C004,Home Office,West,Furniture,3,14799,0.0,44397.0
+2051,2023-02-01,C013,Home Office,South,Furniture,1,14788,0.0,14788.0
+2052,2023-04-07,C017,Home Office,South,Furniture,4,2792,0.1,10051.2
+2053,2023-01-21,C020,Corporate,North,Office Supplies,3,17117,0.1,46215.9
+2054,2023-05-22,C022,Corporate,East,Furniture,3,18666,0.05,53198.1
+2055,2023-03-17,C007,Corporate,West,Office Supplies,2,19148,0.1,34466.4
+2056,2023-06-10,C013,Home Office,North,Furniture,3,7387,0.15,18836.85
+2057,2023-06-08,C026,Home Office,East,Furniture,4,14988,0.05,56954.4
+2058,2023-04-03,C017,Corporate,South,Office Supplies,1,9799,0.1,8819.1
+2059,2023-05-28,C003,Consumer,East,Technology,2,5328,0.0,10656.0
+2060,2023-02-19,C002,Consumer,West,Office Supplies,1,15423,0.15,13109.55
+2061,2023-06-30,C029,Home Office,South,Office Supplies,4,16699,0.15,56776.6
+2062,2023-01-18,C008,Consumer,North,Technology,4,7670,0.05,29146.0
+2063,2023-01-12,C026,Home Office,West,Technology,5,8665,0.0,43325.0
+2064,2023-06-19,C015,Consumer,West,Office Supplies,5,18814,0.1,84663.0
+2065,2023-02-28,C025,Corporate,West,Office Supplies,4,5715,0.15,19431.0
+2066,2023-03-16,C015,Corporate,South,Office Supplies,3,17581,0.15,44831.55
+2067,2023-01-21,C021,Consumer,East,Furniture,1,9862,0.05,9368.9
+2068,2023-03-01,C009,Corporate,East,Office Supplies,1,5034,0.05,4782.3
+2069,2023-01-26,C008,Corporate,South,Office Supplies,2,2604,0.15,4426.8
+2070,2023-04-08,C014,Corporate,West,Furniture,1,7277,0.15,6185.45
+2071,2023-03-13,C013,Home Office,North,Office Supplies,4,16129,0.0,64516.0
+2072,2023-04-27,C012,Corporate,West,Furniture,5,18395,0.05,87376.25
+2073,2023-06-12,C016,Consumer,East,Furniture,4,1451,0.15,4933.4
+2074,2023-04-04,C011,Home Office,West,Office Supplies,2,15815,0.05,30048.5
+2075,2023-02-11,C020,Home Office,North,Furniture,5,18993,0.0,94965.0
+2076,2023-04-05,C003,Home Office,West,Technology,4,6454,0.0,25816.0
+2077,2023-04-01,C009,Corporate,East,Technology,4,11210,0.1,40356.0
+2078,2023-02-23,C025,Corporate,East,Furniture,3,3183,0.15,8116.65
+2079,2023-06-21,C001,Home Office,North,Furniture,2,2748,0.0,5496.0
+2080,2023-03-10,C025,Consumer,South,Technology,1,5493,0.05,5218.35
+2081,2023-06-29,C005,Corporate,North,Office Supplies,2,15738,0.1,28328.4
+2082,2023-06-24,C025,Corporate,South,Office Supplies,5,4253,0.05,20201.75
+2083,2023-06-15,C010,Consumer,North,Furniture,5,12798,0.15,54391.5
+2084,2023-01-19,C023,Consumer,North,Office Supplies,2,3839,0.1,6910.2
+2085,2023-06-05,C028,Home Office,North,Office Supplies,1,11877,0.15,10095.45
+2086,2023-06-12,C022,Corporate,North,Office Supplies,3,914,0.15,2330.7
+2087,2023-02-13,C027,Corporate,North,Furniture,3,15564,0.05,44357.4
+2088,2023-05-17,C014,Consumer,East,Office Supplies,5,16343,0.15,69457.75
+2089,2023-03-04,C014,Home Office,East,Furniture,2,3339,0.1,6010.2
+2090,2023-02-11,C029,Corporate,South,Furniture,5,12918,0.1,58131.0
+2091,2023-04-29,C001,Corporate,East,Technology,4,7450,0.1,26820.0
+2092,2023-04-08,C026,Corporate,East,Furniture,5,9552,0.0,47760.0
+2093,2023-03-11,C017,Consumer,North,Technology,4,16509,0.05,62734.2
+2094,2023-06-13,C023,Corporate,West,Furniture,1,3549,0.1,3194.1
+2095,2023-06-26,C008,Corporate,South,Furniture,5,12592,0.15,53516.0
+2096,2023-05-23,C018,Home Office,East,Furniture,5,11339,0.1,51025.5
+2097,2023-02-26,C023,Corporate,East,Furniture,3,8054,0.0,24162.0
+2098,2023-06-25,C024,Consumer,East,Technology,5,6566,0.05,31188.5
+2099,2023-03-25,C007,Home Office,West,Furniture,5,17691,0.1,79609.5
+2100,2023-01-15,C004,Consumer,East,Technology,3,6379,0.1,17223.3
+2101,2023-02-28,C001,Home Office,South,Furniture,1,2286,0.1,2057.4
+2102,2023-01-09,C023,Consumer,West,Technology,1,19310,0.1,17379.0
+2103,2023-03-22,C016,Corporate,West,Furniture,2,2183,0.1,3929.4
+2104,2023-04-13,C028,Corporate,North,Technology,4,16613,0.0,66452.0
+2105,2023-03-10,C019,Home Office,North,Technology,2,18943,0.1,34097.4
+2106,2023-01-17,C003,Consumer,North,Office Supplies,4,7895,0.15,26843.0
+2107,2023-02-24,C015,Corporate,East,Office Supplies,4,10506,0.0,42024.0
+2108,2023-05-26,C020,Home Office,North,Technology,2,9171,0.0,18342.0
+2109,2023-03-22,C006,Consumer,South,Office Supplies,1,5629,0.0,5629.0
+2110,2023-02-24,C014,Corporate,West,Furniture,1,8085,0.1,7276.5
+2111,2023-06-17,C023,Corporate,West,Technology,2,9168,0.05,17419.2
+2112,2023-05-08,C014,Consumer,South,Office Supplies,2,9204,0.05,17487.6
+2113,2023-04-12,C003,Consumer,South,Furniture,5,19151,0.1,86179.5
+2114,2023-06-14,C015,Consumer,West,Office Supplies,3,13689,0.1,36960.3
+2115,2023-04-28,C017,Home Office,West,Furniture,1,1806,0.15,1535.1
+2116,2023-02-06,C024,Corporate,East,Technology,1,8001,0.0,8001.0
+2117,2023-03-09,C025,Home Office,East,Office Supplies,1,6240,0.15,5304.0
+2118,2023-02-05,C017,Home Office,West,Furniture,2,19680,0.15,33456.0
+2119,2023-03-05,C021,Corporate,North,Furniture,3,13880,0.1,37476.0
