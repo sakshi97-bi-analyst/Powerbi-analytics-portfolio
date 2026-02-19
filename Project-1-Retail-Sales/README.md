@@ -17,3 +17,5 @@ Power BI, DAX, Data Modeling
 
 Outcome
 Enabled business stakeholders to quickly identify revenue drivers and optimize category strategy.
+
+![Dashboard Preview](Categorial profit analysis.jpg)
