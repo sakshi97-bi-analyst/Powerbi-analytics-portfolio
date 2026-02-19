@@ -25,4 +25,4 @@ Business Impact
 Supports demand planning decisions and helps optimize inventory allocation to reduce holding costs.
 
 Dashboard Preview
-(Add image after upload)
+![Inventory Dashboard Preview](Inventory%20Operations%20Dashboard.png)
