@@ -19,5 +19,4 @@ Power BI, DAX, Data Modeling
 Outcome
 Provided insights into customer loyalty patterns and helped identify segments driving long-term revenue growth.
 
-Dashboard Preview
-(Add image here after upload)
+![Dashboard Preview](Customer Revenue and retention.jpg)
